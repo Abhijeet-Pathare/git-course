@@ -1,2 +1,0 @@
-username = abs12
-password = resfj
